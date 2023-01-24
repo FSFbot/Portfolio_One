@@ -1,5 +1,3 @@
-# Portf-lio-do-zero
-Nesse vídeo eu ensino a criar um site portfólio do zero, usando HTML, CSS e JavaScript (Jquery).
-
-
-![](image/Capa.png)
+# Primeiro site pessoal 
+Aqui neste projeto foi usado todo o meu conhecimento adquirido durante os estudos
+<h2> Versão ainda em andamento qualquer sugestão não deixe de me contatar</h2>
